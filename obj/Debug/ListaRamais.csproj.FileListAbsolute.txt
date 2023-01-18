@@ -1,0 +1,13 @@
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\bin\Debug\ListaRamais.exe.config
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\bin\Debug\ListaRamais.exe
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\bin\Debug\ListaRamais.pdb
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\bin\Debug\MaterialSkin.dll
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\ListaRamais.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\ListaRamais.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\ListaRamais.ListaRamais.resources
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\ListaRamais.Properties.Resources.resources
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\ListaRamais.csproj.GenerateResource.cache
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\ListaRamais.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\ListaRamais.csproj.CopyComplete
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\ListaRamais.exe
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\ListaRamais.pdb

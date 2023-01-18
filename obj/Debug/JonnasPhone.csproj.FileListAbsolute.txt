@@ -1,0 +1,13 @@
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\bin\Debug\JonnasPhone.exe.config
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\bin\Debug\JonnasPhone.exe
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\bin\Debug\JonnasPhone.pdb
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\bin\Debug\MaterialSkin.dll
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\JonnasPhone.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\JonnasPhone.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\ListaRamais.ListaRamais.resources
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\JonnasPhone.Properties.Resources.resources
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\JonnasPhone.csproj.GenerateResource.cache
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\JonnasPhone.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\JonnasPhone.csproj.CopyComplete
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\JonnasPhone.exe
+C:\Users\carlo\Documents\Projetos do Trabalho\ListaRamais\obj\Debug\JonnasPhone.pdb
