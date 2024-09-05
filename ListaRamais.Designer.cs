@@ -142,9 +142,15 @@
             this.Sizable = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "Lista de Ramais";
+<<<<<<< HEAD
             this.Deactivate += new System.EventHandler(this.ListaRamais_Deactivate);
             this.Load += new System.EventHandler(this.ListaRamais_Load);
             this.Resize += new System.EventHandler(this.ListaRamais_Resize);
+=======
+            this.Deactivate += new System.EventHandler(this.JonnasPhone_Deactivate);
+            this.Load += new System.EventHandler(this.JonnasPhone_Load);
+            this.Resize += new System.EventHandler(this.JonnasPhone_Resize);
+>>>>>>> 1c749e0a6f1e9f468c4801dc2672add22c48f5b9
             ((System.ComponentModel.ISupportInitialize)(this.pbSobre)).EndInit();
             this.ResumeLayout(false);
 
