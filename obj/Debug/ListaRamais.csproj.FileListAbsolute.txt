@@ -1,0 +1,14 @@
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\bin\Debug\ListaRamais.exe.config
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\bin\Debug\ListaRamais.exe
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\bin\Debug\ListaRamais.pdb
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\bin\Debug\MaterialSkin.dll
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\obj\Debug\ListaRamais.csproj.AssemblyReference.cache
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\obj\Debug\ListaRamais.ListaRamais.resources
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\obj\Debug\ListaRamais.Properties.Resources.resources
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\obj\Debug\ListaRamais.csproj.GenerateResource.cache
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\obj\Debug\ListaRamais.csproj.CoreCompileInputs.cache
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\obj\Debug\ListaRam.D86B2BD5.Up2Date
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\obj\Debug\ListaRamais.exe
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\obj\Debug\ListaRamais.pdb
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\bin\Debug\System.Data.SQLite.dll
+C:\Users\carlos.araujo\Downloads\ListaRamais-main\bin\Debug\System.Data.SQLite.xml
